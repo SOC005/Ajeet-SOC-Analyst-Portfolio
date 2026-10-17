@@ -32,6 +32,13 @@ The objective is to investigate repeated SSH authentication failures, examine Wi
 6. Capture screenshots and document the results.
 
 ## Evidence
+Video Demonstration
+
+Kali Linux SSH Authentication Testing
+
+Watch the project demonstration- https://drive.google.com/drive/folders/1NUYLyjhUt5QE2gUHveS8JDMeqCUOS2Ts?usp=sharing
+
+The recording demonstrates SSH authentication testing in the lab environment. Wazuh alert correlation is documented separately in the project findings.
 
 ### 1. Wazuh Service Logon Rule
 ![Wazuh service logon rule](screenshots/01-wazuh-rule-67024-service-logon.png)
